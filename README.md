@@ -17,7 +17,7 @@ make
 ```
 3. Insert the module into the kernel:
 ```bash
-sudo insmod module_name.ko
+sudo insmod mini_top.ko
 ```
 
 4. Check kernel messages:
